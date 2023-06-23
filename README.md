@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Define constraints and validations in data processing.
-- Restrict database input to specific formats using constraints.
+- Restrict database input to specific formats using constraints .
 
 ***
 
